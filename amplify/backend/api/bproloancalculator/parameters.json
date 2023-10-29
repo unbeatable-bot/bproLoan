@@ -1,0 +1,11 @@
+{
+  "AppSyncApiName": "bproloancalculator",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthCognitoUserPoolId": {
+    "Fn::GetAtt": [
+      "authbproloancalculatorf8b4239d",
+      "Outputs.UserPoolId"
+    ]
+  }
+}

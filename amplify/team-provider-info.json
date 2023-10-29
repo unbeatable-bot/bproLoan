@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-bproloancalculator-dev-154930-authRole",
+      "UnauthRoleArn": "arn:aws:iam::818754491340:role/amplify-bproloancalculator-dev-154930-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::818754491340:role/amplify-bproloancalculator-dev-154930-authRole",
+      "Region": "ap-northeast-2",
+      "DeploymentBucketName": "amplify-bproloancalculator-dev-154930-deployment",
+      "UnauthRoleName": "amplify-bproloancalculator-dev-154930-unauthRole",
+      "StackName": "amplify-bproloancalculator-dev-154930",
+      "StackId": "arn:aws:cloudformation:ap-northeast-2:818754491340:stack/amplify-bproloancalculator-dev-154930/fefbd3f0-6b26-11ee-b51d-02b9aedf49ee",
+      "AmplifyAppId": "d35ocs484zfdth"
+    },
+    "categories": {
+      "auth": {
+        "bproloancalculatorf8b4239d": {}
+      },
+      "api": {
+        "bproloancalculator": {}
+      }
+    }
+  }
+}
